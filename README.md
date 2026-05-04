@@ -267,11 +267,6 @@ A recipe finder web application with search functionality and trending food cate
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shikhon00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shikhon00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 <br/><br/>
 
 <img width="60%" src="https://streak-stats.demolab.com?user=Shikhon00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -279,17 +274,6 @@ A recipe finder web application with search functionality and trending food cate
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shikhon00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
