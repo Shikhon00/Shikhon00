@@ -104,69 +104,100 @@ const sherbaj = {
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-<img src="./project-1.png" alt="Food Ordering System" width="100%" />
+<img src="./project-1.png" alt="FitFuel Meal Website" width="100%" />
 
-<h3>🍔 Food Ordering System</h3>
+<h3>🏋️ FitFuel Meal Website</h3>
 
 <p>
-A full-stack food ordering web application built with React.js, Node.js, Express.js, and MongoDB.
+A modern fitness meal landing page designed for healthy meal plans, protein-focused food, and performance nutrition.
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Responsive_UI-20232A?style=flat-square" />
 </p>
 
 <p>
-  <b>Features:</b> JWT Auth, Role-Based Access, Cart, Orders, REST APIs
+  <b>Features:</b> Meal Plans, Modern Hero Section, Responsive Layout, Clean UI
+</p>
+
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7C7?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 </td>
+
 <td width="33%" valign="top">
 
-<img src="./project-2.png" alt="Food Ordering System" width="100%" />
+<img src="./project-2.png" alt="Food Ordering Website" width="100%" />
 
-<h3>🍔 Food Ordering System</h3>
+<h3>🍽️ Food Ordering Website</h3>
 
 <p>
-A full-stack food ordering web application built with React.js, Node.js, Express.js, and MongoDB.
+A visually appealing food ordering landing page where users can explore favorite dishes and view menu options.
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/Food_UI-20232A?style=flat-square" />
 </p>
 
 <p>
-  <b>Features:</b> JWT Auth, Role-Based Access, Cart, Orders, REST APIs
+  <b>Features:</b> Hero Banner, Menu CTA, Food Showcase, Responsive Design
+</p>
+
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7C7?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 </td>
+
 <td width="33%" valign="top">
 
-<img src="./project-3.png" alt="Food Ordering System" width="100%" />
+<img src="./project-3.png" alt="Recipe Finder Website" width="100%" />
 
-<h3>🍔 Food Ordering System</h3>
+<h3>🍱 Recipe Finder</h3>
 
 <p>
-A full-stack food ordering web application built with React.js, Node.js, Express.js, and MongoDB.
+A recipe finder web application with search functionality and trending food categories for discovering meals easily.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/API-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Recipe_App-20232A?style=flat-square" />
 </p>
 
 <p>
-  <b>Features:</b> JWT Auth, Role-Based Access, Cart, Orders, REST APIs
+  <b>Features:</b> Recipe Search, Categories, Food Cards, Clean Navigation
+</p>
+
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7C7?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 </td>
+
 </tr>
 </table>
 
