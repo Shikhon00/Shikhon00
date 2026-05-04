@@ -1,22 +1,15 @@
 <div align="center">
 
-<img src="./portfolio.gif" alt="Sherbaj Ahmed Portfolio Banner" width="100%" />
+<img src="./portfolio.gif" alt="Sherbaj Ahmed Banner" width="100%" />
 
 <br/>
 
-<h1>Building Scalable Web Experiences with MERN Stack</h1>
+# Sherbaj Ahmed
+
+### Full-Stack Developer from Dhaka, Bangladesh
 
 <p>
-  <strong>Full-Stack Developer from Dhaka, Bangladesh</strong>
-</p>
-
-<p>
-  I design and develop modern, responsive, and performance-focused web applications using
-  <strong>React.js, Next.js, Node.js, Express.js, MongoDB, and MySQL</strong>.
-</p>
-
-<p>
-  Passionate about clean code, RESTful APIs, user-friendly interfaces, and building real-world full-stack solutions.
+Building modern, responsive, and scalable web applications with React, Next.js, Node.js, Express.js, MongoDB, and MySQL.
 </p>
 
 <p>
@@ -40,96 +33,203 @@
 
 ## 👨‍💻 About Me
 
-I am **Sherbaj Ahmed**, a Computer Science and Engineering student at the **International University of Business Agriculture and Technology (IUBAT)**.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I am focused on **Full-Stack Web Development**, especially the **MERN Stack**. I enjoy creating clean, responsive, and scalable web applications that solve real-world problems.
+I am <b>Sherbaj Ahmed</b>, a <b>Computer Science and Engineering student</b> at <b>International University of Business Agriculture and Technology (IUBAT)</b>.
 
-My goal is to grow as a professional developer by building practical projects, improving backend architecture, and learning modern development practices.
 
----
+I focus on <b>Full-Stack Web Development</b> and enjoy building clean, responsive, and scalable web applications.
 
-## 🚀 What I Do
 
-- 🌐 Build responsive and dynamic web applications
-- ⚙️ Develop RESTful APIs with Node.js and Express.js
-- 🗄️ Work with MongoDB and MySQL databases
-- 🔐 Implement authentication and authorization systems
-- 🧩 Create full-stack applications using the MERN stack
-- 📈 Focus on performance, clean code, and user experience
+Currently improving my skills in <b>React, Next.js, backend architecture, REST APIs, authentication, and scalable web systems</b>.
+
+</td>
+<td width="42%" valign="top">
+
+<pre>
+const sherbaj = {
+  location: "Dhaka, Bangladesh",
+  role: "Full-Stack Developer",
+  stack: "MERN Stack",
+  focus: "Scalable Web Apps"
+};
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
 
-### Languages
+<h3>Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 
-<br/>
+</td>
+<td width="25%" align="center" valign="top">
 
-### Frontend
+<h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 
-<br/>
+</td>
+<td width="25%" align="center" valign="top">
 
-### Backend
+<h3>Backend & DB</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-<br/>
+</td>
+<td width="25%" align="center" valign="top">
 
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br/>
-
-### Tools
+<h3>Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### 🍔 Food Ordering System — MERN Stack
+<table>
+<tr>
+<td width="33%" valign="top">
 
-A full-stack food ordering web application built using **React.js, Node.js, Express.js, and MongoDB**.
+<img src="./project-1.png" alt="Food Ordering System" width="100%" />
 
-#### Key Features
+<h3>🍔 Food Ordering System</h3>
 
-- 🔐 JWT authentication
-- 👥 Role-based access control
-- 🛒 Cart management
-- 📦 Order management
-- ⚙️ RESTful API development
-- 🗄️ MongoDB database integration
-- 🚀 Deployed on Vercel
+<p>
+A full-stack food ordering web application built with React.js, Node.js, Express.js, and MongoDB.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb" />
+</p>
+
+<p>
+  <b>Features:</b> JWT Auth, Role-Based Access, Cart, Orders, REST APIs
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<img src="./project-2.png" alt="Food Ordering System" width="100%" />
+
+<h3>🍔 Food Ordering System</h3>
+
+<p>
+A full-stack food ordering web application built with React.js, Node.js, Express.js, and MongoDB.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb" />
+</p>
+
+<p>
+  <b>Features:</b> JWT Auth, Role-Based Access, Cart, Orders, REST APIs
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<img src="./project-3.png" alt="Food Ordering System" width="100%" />
+
+<h3>🍔 Food Ordering System</h3>
+
+<p>
+A full-stack food ordering web application built with React.js, Node.js, Express.js, and MongoDB.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb" />
+</p>
+
+<p>
+  <b>Features:</b> JWT Auth, Role-Based Access, Cart, Orders, REST APIs
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Computer Science and Engineering  
-**International University of Business Agriculture and Technology, Dhaka**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Expected Graduation: **May 2026**
-- CGPA: **3.70**
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/BSc-CSE-00C7C7?style=for-the-badge" />
 
-## 🌱 Currently Exploring
+</div>
 
-- Advanced React.js and Next.js
-- Backend architecture
-- API security
-- Scalable web applications
-- Clean code and best development practices
+<h3>International University of Business Agriculture and Technology</h3>
+
+<p>
+<b>Degree:</b> Bachelor of Computer Science and Engineering
+<br/>
+<b>Location:</b> Dhaka, Bangladesh
+<br/>
+<b>Expected Graduation:</b> May 2026
+<br/>
+<b>CGPA:</b> 3.70
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/University-IUBAT-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Running-2EA44F?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HSC-Science-blue?style=for-the-badge" />
+
+</div>
+
+<h3>Sherpur Biggan College</h3>
+
+<p>
+<b>Level:</b> Higher Secondary Certificate
+<br/>
+<b>Group:</b> Science
+<br/>
+<b>Year:</b> 2020
+<br/>
+<b>GPA:</b> 5.00
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/College-Sherpur%20Biggan%20College-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Result-GPA%205.00-2EA44F?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -137,15 +237,13 @@ A full-stack food ordering web application built using **React.js, Node.js, Expr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shikhon00&show_icons=true&theme=tokyonight&hide_border=true" alt="Sherbaj Ahmed GitHub Stats" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shikhon00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shikhon00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shikhon00&theme=tokyonight&hide_border=true" alt="Sherbaj Ahmed GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhon00&layout=compact&theme=tokyonight&hide_border=true" alt="Sherbaj Ahmed Top Languages" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Shikhon00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -155,52 +253,28 @@ A full-stack food ordering web application built using **React.js, Node.js, Expr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shikhon00&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Sherbaj Ahmed GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shikhon00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
-
----
-
-## 🤝 Volunteering & Activities
-
-### Event Team Member  
-**1st Islamic Seminar 2025 — IUBAT**
-
-- Coordinated with team members to support smooth event execution
-- Improved teamwork, communication, and organizational skills
-- Participated in event planning and management activities
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="mailto:sherbazahmed787@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sherbazahmed787%40gmail.com-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/Shikhon00">
-  <img src="https://img.shields.io/badge/GitHub-Shikhon00-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/sherbaj-ahmed-16ab6a19a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sherbaj%20Ahmed-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://shikhon00.github.io/Portfolio-Sherbaj-Ahmed-/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7C7?style=for-the-badge&logo=vercel" />
-</a>
-
-</div>
-
----
-
-## 💬 Languages
-
-- Bengali
-- English
-- Hindi
+<p align="center">
+  <a href="mailto:sherbazahmed787@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sherbazahmed787%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/Shikhon00">
+    <img src="https://img.shields.io/badge/GitHub-Shikhon00-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sherbaj-ahmed-16ab6a19a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sherbaj%20Ahmed-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://shikhon00.github.io/Portfolio-Sherbaj-Ahmed-/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-00C7C7?style=flat-square&logo=vercel" />
+  </a>
+</p>
 
 ---
 
@@ -208,6 +282,6 @@ A full-stack food ordering web application built using **React.js, Node.js, Expr
 
 ### Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C7C7&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
 
 </div>
